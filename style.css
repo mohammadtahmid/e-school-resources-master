@@ -1,0 +1,166 @@
+*{
+  font-family: 'Poppins';
+}
+.nav_caro{
+  background-color: rgb(248, 247, 247);
+}
+.nav_bar img{
+  width: 198.7px;
+  height: 59px;
+}
+.nav_bar a{
+  padding: 5px;
+  font-size: 16px;
+}
+.nav_bar .sing_btn span{
+  background-color: #21B573;
+  color: white;
+  border-radius: 25px;
+  padding: 10px 20px;
+}
+
+
+.carosel h1{
+  font-size: 48px;
+  font-weight: 700;
+  font-family: 'poppins';
+  line-height: 70px;
+  font-style: normal;
+
+}
+.carosel span{
+  color: #21B573;
+}
+.carosel .carosel_left{
+  width: 405px;
+  padding: 12px 36px;
+}
+
+.carosel .caro_para{
+  font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 36px;
+/* or 225% */
+
+
+color: #6C6B6B;
+
+}
+.get_btn{
+  background-color: #21B573;
+  color: white;
+  border-radius: 25px;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+
+
+.top_card{
+  padding: 20px;
+}
+.single_card{
+  padding: 20px;
+  background-color: #F8FFFB;
+  border-radius: 10px;
+}
+.top_card img{
+  height: 85px;
+  width: 66px;
+  padding: 10px;
+}
+.top_card .single_card_2{
+  background: #FFFFFF;
+  box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+}
+
+
+.card{
+  border: none;
+  box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+  padding: 20px 20px 0px 20px;
+  border-radius: 15px;
+}
+.card:hover{
+  border: 3px solid #21B573;
+  transition: .3s;
+}
+.card-body{
+  padding: 0px;
+}
+.online_course h3{
+  padding : 25px;
+}
+.online_course h5{
+  color: #413960;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 36px;
+}
+.online_course p{
+  color: #585859;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+}
+.online_course a{
+  text-decoration: none;
+}
+.online_course a:hover{
+  color: black;
+  transition: .3;
+}
+.card_footer{
+  padding: 30px 0px 10px 0px;
+}
+.text_monial{
+  padding: 20px 0px 80px 0px;
+}
+.textimonial{
+  width: 580px;
+  margin-left: 20%;
+}
+.text_monial h3{
+  padding: 40px;
+}
+.text_monial img{
+  height: 120px;
+  width: 120px;
+  padding: 10px;
+  margin-right: 10px;
+}
+.text_monial p{
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  text-align: justify;
+}
+
+
+
+
+.single_row{
+  width: 123px;
+  
+}
+.single_row ul li{
+  list-style: none;
+}
+.left_single_row{
+  width: 364px;
+}
+.footer{
+  background-color:  #282531;
+  color: white;
+}
+.top_footer{
+  padding: 50px 0px 50px 0px;
+}
+.text-center{
+  padding-bottom: 30px;
+}
